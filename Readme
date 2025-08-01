@@ -1,6 +1,5 @@
 # Restaurant Website
 
-
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
@@ -10,6 +9,29 @@
 - [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
+
+## Introduction
+A modern, interactive restaurant website built with vanilla JavaScript, CSS, and Webpack. Users can browse Home, Menu, and Contact sections with smooth navigation.
+
+## Features
+- Single Page Application: Seamless navigation without page reloads.
+- Modular Codebase: Each section managed in its own module.
+- Responsive Design: Clean, mobile-friendly UI.
+- Webpack Building: Efficient asset management and workflow.
+
+## Screenshots
+![Home Page](./Images/Home.png)
+
+## Technologies Used
+- HTML5  
+- CSS3  
+- JavaScript  
+
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Princessglory/Restaurant-Ass.git
+
 
 ## Introduction
  A modern, interactive restaurant website built with vanilla Javascript, CSS, and webpack. Users can browse Home, Menu, and Contact Sections with smooth navigation.
@@ -22,7 +44,7 @@
 
 ## Screenshots
 
-![Home](Images/Home.png)
+![Screenshot of Home Page](./Images/Home.png)
 
 
 ## Technologies Used
