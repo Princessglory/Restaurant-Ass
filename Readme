@@ -1,0 +1,63 @@
+# Restaurant Website
+
+
+## Table of Contents
+- [Introduction](#introduction)
+- [Features](#features)
+- [Screenshots](#screenshots)
+- [Technologies Used](#technologies-used)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Project Structure](#project-structure)
+- [Contributing](#contributing)
+
+## Introduction
+ A modern, interactive restaurant website built with vanilla Javascript, CSS, and webpack. Users can browse Home, Menu, and Contact Sections with smooth navigation.
+
+## Features
+- Single Page Apllication: Seamless navigation without page reloads.
+- Modular Codebase: Each section managed in its own module.
+- Responsive Design: Clean, mobile-friendly UI.
+- Webpack Building: Efficient asset management and workflow.
+
+## Screenshots
+![Home](Images/Home.png)
+
+
+## Technologies Used
+- HTML5
+- CSS3
+- JavaScript
+
+
+## Installation
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/Princessglory/Restaurant-web.git
+    ```
+2. Navigate to the project directory:
+    ```bash
+    cd Restaurant-web
+    ```
+3. Open `index.html` in your browser or use a local server.
+
+## Usage
+- Browse the menu and gallery.
+- Make reservations using the online form.
+- Contact the restaurant via the provided details.
+
+## Project Structure
+```
+restaurant-website/
+├── assets/
+│   ├── images/
+│   └── styles/
+├── scripts/
+├── index.html
+├── menu.html
+├── contact.html
+└── README.md
+```
+
+## Contributing
+Contributions are welcome! Please fork the repository and submit a pull request. For major changes, open an issue first to discuss your ideas.
