@@ -42,9 +42,6 @@ A modern, interactive restaurant website built with vanilla JavaScript, CSS, and
 - Responsive Design: Clean, mobile-friendly UI.
 - Webpack Building: Efficient asset management and workflow.
 
-## Screenshots
-
-![Screenshot of Home Page](./Images/Home.png)
 
 
 ## Technologies Used
