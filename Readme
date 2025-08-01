@@ -21,6 +21,7 @@
 - Webpack Building: Efficient asset management and workflow.
 
 ## Screenshots
+
 ![Home](Images/Home.png)
 
 
@@ -33,11 +34,10 @@
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Princessglory/Restaurant-web.git
-    ```
+    git clone https://github.com/Princessglory/Restaurant-Ass.git
 2. Navigate to the project directory:
     ```bash
-    cd Restaurant-web
+    cd Restaurant-Ass
     ```
 3. Open `index.html` in your browser or use a local server.
 
